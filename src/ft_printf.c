@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../include/ft_printf.h"
+#include "../include/libft.h"
 
 int	convert_specifiers(const char *format, va_list args, int index)
 {

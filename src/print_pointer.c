@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../include/ft_printf.h"
+#include "../include/libft.h"
 
 int	putnbr_ptr(unsigned long int arg, int base)
 {
